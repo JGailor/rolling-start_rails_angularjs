@@ -14,4 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require angular
+//= require angular-route
+//= require app
 //= require_tree .
