@@ -1,28 +1,11 @@
-== README
+== Why?
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is here for someone who wants to get start with a Rails + AngularJS app.  I make no claim about it having best practices, or having every possible feature anyone would want, but it will be kept working and up-to-date for anyone to fork and make their own changes to.  It will also be available for anyone who requests to be a committer to create a branch for different versions of Rails or AngularJS, or wants to make a different feature available that they think would be useful.
 
-Things you may want to cover:
+== Who is it for?
 
-* Ruby version
+This is for someone who wants a little nudge, or a helping hand, to get them started on the path of building a Rails + AngularJS application.
 
-* System dependencies
+== Notes
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is only one combination of technology that I hope to release over time.  Once this has the features I think are important, I will begin to work on another rolling-start application.
